@@ -1,0 +1,258 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+body{
+    background-color: rgb(251, 248, 248);
+    color: rgb(20, 19, 19);
+   
+
+}
+ #a{
+    max-width: fit-content;
+    max-height: fit-content;
+ }
+
+.a{
+    position: absolute;
+    width: 1545px;
+    height: 344px;
+    left: 0px;
+    top: 0px;
+    background-image: url('../images/banner.webp');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.b{
+    position: absolute;
+    width: 1000px;
+    height: 116px;
+    left: 210px;
+    top: 406px;
+    font-size: 60px;
+    background-image: url('../images/hy.webp');
+}
+
+#c{
+    position: absolute;
+    width: 337px;
+    height: 53px;
+    left: 550px;
+    top: 666px;
+    font-size: 60px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#c:hover {
+    background-color: rgb(232, 223, 213);
+   
+  }
+
+.d{
+    position: absolute;
+    left: 0px;
+    top: 850px;
+    background: #D9D9D9;
+    background-image: url('../images/patan.jpg');
+    object-fit: cover;
+}
+
+.e{
+    position: absolute;
+    left: 0px;
+    top: 1155px;
+    width:514px;
+    height: 75px;
+    background: #D9D9D9;
+    color:black;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.f{
+    position: absolute;
+    width: 514px;
+    height: 321px;
+    left: 525px;
+    top: 850px;
+    background-image: url('../images/swayambhunath.jpg');
+    background: #D9D9D9;
+    
+    object-fit: cover;
+}
+
+.ff{
+    position: absolute;
+    left: 0px;
+    top: 300px;
+    width:514px;
+    height: 80px;
+    background: #D9D9D9;
+    color:black;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fff{
+    position: absolute;
+    width: 458px;
+    height: 300px;
+    left: 1050px;
+    top: 850px;
+    background-image: url('../images/pashupatinath.jpg');
+    background: #D9D9D9;
+}
+
+.aa{
+    position: absolute;
+    left: 0px;
+    top: 300px;
+    width: 481px;
+    height: 80px;
+    background: #D9D9D9;
+    color:black;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.dd{
+    position: absolute;
+    left: 0px;
+    top: 1300px;
+    background: #D9D9D9;
+    background-image: url('../images/gardenofdream.jpg');
+    object-fit: cover;
+}
+.ddd{
+    position: absolute;
+    left: 0px;
+    top: 253px;
+    width:517px;
+    height: 75px;
+    background: #D9D9D9;
+    color:black;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.dddd{
+    position: absolute;
+    width: 514px;
+    height: 254px;
+    left: 525px;
+    top: 1300px;
+    background-image: url('../images/annapurna\ base\ camp.jpg');
+    background: #D9D9D9;
+    
+    object-fit: cover;
+}
+.ddddd{
+    position: absolute;
+    left: 0px;
+    top: 253px;
+    width:517px;
+    height: 75px;
+    background: #D9D9D9;
+    color:black;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.dddddd{
+    position: absolute;
+    width: 458px;
+    height: 254px;
+    left: 1050px;
+    top: 1300px;
+   background-image: url('../images/hanumandhoka.jpg');
+    background: #D9D9D9;
+}
+.ddddddd{
+    position: absolute;
+    left: 0px;
+    top: 253px;
+    width:517px;
+    height: 75px;
+    background: #D9D9D9;
+    color:black;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#d{
+    position: absolute;
+    width: 337px;
+    height: 53px;
+    left: 550px;
+    top: 1800px;
+    font-size: 60px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#d:hover {
+    background-color: rgb(232, 223, 213);
+   
+  }
+
+  .g{
+    position: absolute;
+    left: 0px;
+    top: 1900px;
+    background: #baa9a9;
+    
+    object-fit: cover;
+}
+.gg{
+    position: absolute;
+    left: 528px;
+    top: 1900px;
+    background: #a29b9b;
+    
+    object-fit: cover;
+}
+
+.ggg{
+    position: absolute;
+    left: 528px;
+    top: 1900px;
+    background: #a29b9b;
+    
+    object-fit: cover;
+}
+
+.gggg{
+    position: absolute;
+    left: 1056px;
+    top: 1900px;
+    background: #a29b9b;
+    
+    object-fit: cover;
+}
+
+.ggggg{
+    position: absolute;
+    left: 1056px;
+    top: 2280px;
+    background: #a29b9b;
+    
+    object-fit: cover;
+}
+
+.gggggg{
+    position: absolute;
+    left: 528px;
+    top: 2280px;
+    background: #a29b9b;
+    
+    object-fit: cover;
+}
+
+.ggggggg{
+    position: absolute;
+    left: 0px;
+    top: 2280px;
+    background: #a29b9b;
+    
+    object-fit: cover;
+}
+
